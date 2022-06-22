@@ -1,0 +1,4 @@
+---
+- hosts: servs 
+  roles:
+    - install_nginx_php-fpm
